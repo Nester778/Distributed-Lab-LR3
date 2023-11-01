@@ -1,3 +1,2 @@
 ﻿  LR3.cpp
-C:\Users\user\source\repos\LR3\LR3\LR3.cpp(18,29): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
   LR3.vcxproj -> C:\Users\user\source\repos\LR3\x64\Debug\LR3.exe
